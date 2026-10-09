@@ -83,7 +83,7 @@ The stack is built on ROS and organised around three main components coordinated
 
 
 <!-- TODO: add the Behavior Tree topology diagram (Fig. 2 of the paper) -->
-![Behavior Tree](assets/images/behavior_tree.png)
+![Behavior Tree](assets/images/bt.jpg)
 
 ---
 
@@ -116,7 +116,7 @@ Two-lap run at four target velocities, five runs each, to characterise tracking 
 
 **🎬 Video: full lap at 0.8 m/s and 2.0 m/s**
 <!-- TODO: add video (drag & drop the .mp4 here in the GitHub editor, or link a GIF) -->
-![Behavior Tree](assets/images/D1.mp4)
+![Behavior Tree](assets/images/videod1.mp4)
 
 **📈 Trajectory overlay (five runs, slowest vs fastest)**
 <!-- ![E1 trajectories](assets/images/e1_trajectories.png) -->
