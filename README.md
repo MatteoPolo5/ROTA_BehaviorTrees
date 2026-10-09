@@ -116,7 +116,7 @@ Two-lap run at four target velocities, five runs each, to characterise tracking 
 
 **🎬 Video: full lap at 0.8 m/s and 2.0 m/s**
 <!-- TODO: add video (drag & drop the .mp4 here in the GitHub editor, or link a GIF) -->
-![Behavior Tree](assets/images/videod1.mp4)
+![Video d1](assets/images/videod1.mp4)
 
 **📈 Trajectory overlay (five runs, slowest vs fastest)**
 <!-- ![E1 trajectories](assets/images/e1_trajectories.png) -->
