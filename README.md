@@ -8,7 +8,7 @@
 ![Status](https://img.shields.io/badge/Code-Not%20public-lightgrey)
 
 <!-- TODO: add a hero image or GIF (e.g. the robot avoiding an obstacle in Gazebo) -->
-<!-- ![Hero](assets/images/hero.gif) -->
+![Hero](assets/images/hero.jpg)
 
 ---
 
@@ -56,7 +56,7 @@ This project replaces it with a **Behavior Tree (BT)** that acts as the central 
 **The platform — ROTA (Robô Tricicló de Aveiro):** a small-scale (60 × 45 cm) three-wheeled robot with Ackermann steering, developed at the IRIS laboratory of the University of Aveiro. All the evaluation shown here was performed in a high-fidelity **Gazebo** simulation of the competition scenarios.
 
 <!-- TODO: add a photo of the real ROTA robot -->
-<!-- ![ROTA robot](assets/images/rota.jpg) -->
+![ROTA robot](assets/images/rota.jpg)
 
 ---
 
@@ -81,11 +81,9 @@ The stack is built on ROS and organised around three main components coordinated
 - **Planner:** generates kinematically feasible paths for the Ackermann robot, forward and in reverse
 - **Controller:** tracks the planned path and the speed profile
 
-<!-- TODO: add the architecture diagram (Fig. 1 of the paper) -->
-<!-- ![Architecture](assets/images/architecture.png) -->
 
 <!-- TODO: add the Behavior Tree topology diagram (Fig. 2 of the paper) -->
-<!-- ![Behavior Tree](assets/images/behavior_tree.png) -->
+![Behavior Tree](assets/images/behavior_tree.png)
 
 ---
 
@@ -118,7 +116,7 @@ Two-lap run at four target velocities, five runs each, to characterise tracking 
 
 **🎬 Video: full lap at 0.8 m/s and 2.0 m/s**
 <!-- TODO: add video (drag & drop the .mp4 here in the GitHub editor, or link a GIF) -->
-*Coming soon*
+![Behavior Tree](assets/images/D1.mp4)
 
 **📈 Trajectory overlay (five runs, slowest vs fastest)**
 <!-- ![E1 trajectories](assets/images/e1_trajectories.png) -->
