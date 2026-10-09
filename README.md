@@ -159,7 +159,7 @@ Reverse-parking maneuver at three target velocities, three runs each.
 
 Developed at the **Intelligent Robotics and Intelligent Systems Laboratory (IRIS)**, **University of Aveiro**, Portugal, in collaboration with the **University of Padua**, Italy.
 
-**Authors:** Matteo Polo, Pedro Rasinhas, Artur Pereira
+**Authors:** Matteo Polo, P. Rasinhas, A. Pereira
 
 This project builds on the earlier navigation stack for ROTA by P. Rasinhas (*Reactive and deliberative navigation for an Ackermann robot*, Master's thesis, Universidade de Aveiro, 2025).
 
